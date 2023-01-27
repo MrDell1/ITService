@@ -1,0 +1,6 @@
+.vscode/settings.json
+.eslintrc.cjs
+vite.config.ts
+dist
+.vscode
+node_modules
